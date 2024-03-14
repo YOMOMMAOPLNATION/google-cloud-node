@@ -5,6 +5,125 @@
       "changes": [
         {
           "type": "feat",
+          "sha": "31c36a88987e2dd68c70fb6220b5bf1311239d2d",
+          "message": "[grafeas] A new field `in_toto_slsa_provenance_v1` is added to message `BuildOccurrence`",
+          "issues": [
+            "5133"
+          ]
+        }
+      ],
+      "version": "5.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/grafeas",
+      "id": "c842ace5-206c-418a-b2c2-439fb43b0fc4",
+      "createTime": "2024-03-14T17:43:17.047Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "e15c0fa84d38e7bfd1e1ff2551b6b39ccbbd8554",
+          "message": "[containeranalysis] A new field `in_toto_slsa_provenance_v1` is added to message `BuildOccurrence`",
+          "issues": [
+            "5134"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/containeranalysis",
+      "id": "325e7455-09c7-4102-88af-77e0e3eeb7dc",
+      "createTime": "2024-03-14T17:43:17.035Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "334e7b93b4a996ca70fd4b95e98ca5e0c56eb623",
+          "message": "[cloudbuild] Add Bitbucket Data Center Config and Bitbucket Cloud config for Cloud Build Repositories",
+          "issues": [
+            "5132"
+          ]
+        }
+      ],
+      "version": "4.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudbuild",
+      "id": "4347ea50-2c3c-4b81-96c7-b448453dd4e7",
+      "createTime": "2024-03-14T17:43:17.023Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "f930cd21e4f3dba436281a1db4f65714d795fb6c",
+          "message": "[dialogflow] added text sections to the submitted summary",
+          "issues": [
+            "5130"
+          ]
+        }
+      ],
+      "version": "6.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dialogflow",
+      "id": "6b789f94-9cca-4484-bdb3-e4452082beb8",
+      "createTime": "2024-03-14T17:43:17.010Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "14aea7707c87513792390466a44a84da35d8fb9a",
+          "message": "[datacatalog] Add RANGE type to Data Catalog",
+          "issues": [
+            "5138"
+          ]
+        }
+      ],
+      "version": "4.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datacatalog",
+      "id": "5d5b7cb3-a712-4a84-a15a-cfdcc7bcc9bd",
+      "createTime": "2024-03-14T17:43:16.993Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "fbc2b487f1f2c3eb9f7e95187e6acb28522b6753",
+          "message": "[binaryauthorization] A new field `in_toto_slsa_provenance_v1` is added to message `BuildOccurrence`",
+          "issues": [
+            "5135"
+          ]
+        }
+      ],
+      "version": "3.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/binary-authorization",
+      "id": "b167055f-35d8-46ea-9dff-afbdc6036921",
+      "createTime": "2024-03-14T17:43:16.961Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "4849a58a9761a0123f3232f33651bd6972e6fd3a",
+          "message": "Add v1beta1 StreamingFetchFeatureValues API",
+          "issues": [
+            "5128"
+          ]
+        }
+      ],
+      "version": "3.16.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/aiplatform",
+      "id": "61ebf94a-8627-47f9-a08d-00d88b13b356",
+      "createTime": "2024-03-14T17:43:16.948Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
           "sha": "6bf58f91aff3ed22a9bf3b0abe895baeb9ac4f8d",
           "message": "Add initial files for google.cloud.apphub.v1",
           "issues": [
@@ -24995,5 +25114,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2024-03-13T07:10:57.730Z"
+  "updateTime": "2024-03-14T17:43:17.047Z"
 }
